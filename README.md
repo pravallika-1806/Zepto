@@ -37,15 +37,13 @@ Tools used:
 PostgreSQL
 SQL (DDL, DML, aggregation, CASE statements, window-free analytics)
 
-
-Author
-
-Pravallika Naraharisetti
-
-
-How to run
-
-
+How to run:
 Create a PostgreSQL database.
 Run the script in sql/zepto_analysis.sql — it creates the table and runs all queries in order.
 Import data/zepto_v2.csv into the zept table (e.g. using psql's \copy command or a GUI tool like pgAdmin/DBeaver).
+
+
+
+
+Author
+Pravallika Naraharisetti
